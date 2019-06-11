@@ -1,4 +1,4 @@
-
+千位
 create table Goods  -- 商品表  
 (
   Id int primary key auto_increment,
